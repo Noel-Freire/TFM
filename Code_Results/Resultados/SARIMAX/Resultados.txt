@@ -1,0 +1,4 @@
+Mejores parámetros encontrados: order=(0, 0, 1), seasonal_order=(1, 0, 0, 24)
+MAE: 61.2094
+RMSE: 67.3760
+MSE: 4539.5212
